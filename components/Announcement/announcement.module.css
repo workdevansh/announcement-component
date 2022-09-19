@@ -1,0 +1,8 @@
+.container{
+    width: 100vw;
+    background-image: linear-gradient(to right, #0D8EC6, #0DC68E);
+    text-align: center;
+    color: #fff;
+    padding: 0.8rem;
+    font-family: 'Roboto', sans-serif;
+}
